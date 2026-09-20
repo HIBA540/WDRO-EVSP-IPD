@@ -1,6 +1,6 @@
-# WDRO-EVSP: Wasserstein Distributionally Robust Optimization for EV Smart Parking
+# WDRO-EVSP: Wasserstein Distributionally Robust Optimization for EV 
 
-Code companion for the paper on distributionally robust optimization for Electric Vehicle Smart Parking under distributional shifts.
+Code companion for the paper on Adaptive Wasserstein Distributionally Robust Optimization with Forecast-Informed Radius Calibration for Electric Vehicle Scheduling Under Multi-Source.
 
 ## Structure
 
